@@ -10,3 +10,5 @@ login and logout
 manage the databse 
 closing the connection
 >>>>>>> feature2
+change 1 
+change 2
