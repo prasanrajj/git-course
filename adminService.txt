@@ -10,5 +10,9 @@ login and logout
 manage the databse 
 closing the connection
 >>>>>>> feature2
+<<<<<<< HEAD
 change 1 
 change 2
+=======
+change1
+>>>>>>> main
