@@ -1,10 +1,7 @@
 add and remove users
-change the roles
-
-create an avatar for user
-
-login and logout
- 
-manage the databse 
+change the roles 
+manage the database 
 closing the connection
-change1
+
+change 1 
+change 2 in my database
